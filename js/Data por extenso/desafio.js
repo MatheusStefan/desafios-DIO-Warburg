@@ -23,3 +23,5 @@ function DataExtenso(data_informada) {
     return diaext;
 }
    console.log(entrada); 
+
+   
